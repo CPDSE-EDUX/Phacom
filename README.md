@@ -1,11 +1,11 @@
 # Phacom – Pharma Code Companion
 
-![Phacom logo](assets/Phacom.png)
+<div align="center">
+  <img src="assets/Phacom.png" alt="Phacom logo" width="150">
+</div>
 
-**Phacom** is a browser-based AI coding assistant built for pharmaceutical data science. It helps students and researchers write, understand, and debug code in Python and R — no installation required.
+**Phacom** is a browser-based AI coding assistant built for pharmaceutical data science. It helps learners write, understand, and debug code (primarily in Python and R) — no installation required.
 
-Connect with your own API key (Google Gemini or Mistral AI) and get instant help with data analysis, statistical computing, and pharma-relevant workflows.
+Connect with your own API key (Google Gemini or Mistral AI, free options available) and get instant help with your coding related questions.
 
 **Live site:** [https://cpdse-edux.github.io/Phacom/](https://cpdse-edux.github.io/Phacom/)
-
-Developed by the [Center for Pharmaceutical Data Science Education (CPDSE)](https://cpdse.dk).
