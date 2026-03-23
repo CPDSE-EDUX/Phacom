@@ -302,8 +302,8 @@ function hideTyping() {
 
 function showIntro() {
     addMessage("assistant",
-        "Hi! I'm **Phacom**, your **Pharma Code Companion**. I'm here to support you on your coding journey in Python and R.\n\n" +
-        "I won't give you instant answers — instead, I'll help you understand concepts, debug errors, and build your skills step by step.\n\n" +
+        "Hi! I'm **Phacom**, your **Pharma Code Companion**. I'm here to support you on your coding journey.\n\n" +
+        "I'll help you understand concepts, debug errors, and build your skills step by step.\n\n" +
         "What would you like to work on today?"
     );
 }
